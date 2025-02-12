@@ -1,0 +1,1 @@
+A few personal notes on Git & Github and their functionalities. Notes were taken while watching the following Udemy course: https://www.udemy.com/course/git-and-github-bootcamp/?couponCode=ST9MT120225A
